@@ -1,9 +1,40 @@
+<!--
+--- Readme.md Snippet without images Start ---
+## Tech Stack
+EmmanuStack/Dpublic is built on the following main stack:
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [ESLint](http://eslint.org/) – Code Review
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+
+Full tech stack [here](/tech.md)
+--- Readme.md Snippet without images End ---
+
+--- Readme.md Snippet with images Start ---
+## Tech Stack
+EmmanuStack/Dpublic is built on the following main stack:
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+
+Full tech stack [here](/tech.md)
+--- Readme.md Snippet with images End ---
+-->
 <div align="center">
 
 # Stack Report
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Dpublic](https://github.com/EmmanuStack/Dpublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|1<br/>Contributors|11/01/23 <br/>Report generated|09/19/23<br/>Last commit date|
+|29<br/>Tools used|1<br/>Contributors|11/05/23 <br/>Report generated|09/19/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -89,7 +120,7 @@
 </tr>
 </table>
 
-## Other (2)
+## Other (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
@@ -99,44 +130,35 @@
   <sub>v4.17.20</sub>
 </td>
 
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
-  <br>
-  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
 
-|NAME|VERSION|SOURCE FILE|
-|------|------|------|
-|[@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve/)|v15.0.2|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[@types/mocha](http://definitelytyped.org/)|v10.0.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint)|v5.59.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint)|v5.59.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[clean-css](https://github.com/jakubpawlowicz/clean-css)|v5.3.2|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[cli-table](https://github.com/Automattic/cli-table)|v0.3.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[commander](https://github.com/tj/commander.js)|v10.0.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[css](https://github.com/reworkcss/css)|v3.0.0|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[del](https://github.com/sindresorhus/del)|v6.1.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[eslint-config-standard](https://github.com/standard/eslint-config-standard)|v17.0.0|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)|v2.27.5|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node)|v11.1.0|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)|v6.1.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[glob](https://github.com/isaacs/node-glob)|v8.0.3|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[glob-promise](https://github.com/ahmadnassri/glob-promise)|v6.0.2|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[http-server](https://github.com/http-party/http-server)|v14.1.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[rollup](https://github.com/rollup/rollup)|v2.47.0|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[should](https://github.com/shouldjs/should.js)|v13.2.3|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[terser](https://terser.org)|v5.17.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
-|[typescript](https://www.typescriptlang.org/)|v5.0.4|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|
+|NAME|VERSION|SOURCE FILE|License|Vulnerabilities|
+|------|------|------|------|------|
+|[@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve/)|v15.0.2|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[@types/mocha](http://definitelytyped.org/)|v10.0.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint)|v5.59.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint)|v5.59.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|BSD-2-Clause|N/A|
+|[clean-css](https://github.com/jakubpawlowicz/clean-css)|v5.3.2|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[cli-table](https://github.com/Automattic/cli-table)|v0.3.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[commander](https://github.com/tj/commander.js)|v10.0.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[css](https://github.com/reworkcss/css)|v3.0.0|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[del](https://github.com/sindresorhus/del)|v6.1.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[eslint-config-standard](https://github.com/standard/eslint-config-standard)|v17.0.0|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)|v2.27.5|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node)|v11.1.0|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)|v6.1.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|ISC|N/A|
+|[glob](https://github.com/isaacs/node-glob)|v8.0.3|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|ISC|N/A|
+|[glob-promise](https://github.com/ahmadnassri/glob-promise)|v6.0.2|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[handlebars](http://www.handlebarsjs.com/)|v4.7.6|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|[Remote code execu...](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Aug 22) (critical) (4.7.7), <br/>[Prototype Polluti...](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Feb 11) (critical) (4.7.7)|
+|[http-server](https://github.com/http-party/http-server)|v14.1.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[should](https://github.com/shouldjs/should.js)|v13.2.3|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|MIT|N/A|
+|[terser](https://terser.org)|v5.17.1|[package.json](https://github.com/EmmanuStack/Dpublic/blob/main/package.json)|BSD-2-Clause|N/A|
 
 <br/>
 <div align='center'>
