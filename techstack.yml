@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/Dpublic
-report_id: ec14ad2c9d29daf1b8ede085f4c08d7d
+report_id: 102b8790983b0a7d2f1ac6cd8b82f0db
 repo_type: Public
-timestamp: '2023-11-07T17:59:19+00:00'
+timestamp: '2023-11-07T18:12:37+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -300,6 +300,32 @@ tools:
   image_url: https://img.stackshare.io/package/18020/image.png
   detection_source_url: package.json
   detection_source: package.json
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  vulnerabilities:
+  - name: Remote code execution in handlebars when compiling templates
+    cve_id: CVE-2021-23369
+    cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 4.7.7
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2021-23383
+    cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
+    detected_date: Feb 11
+    severity: critical
+    first_patched: 4.7.7
 - name: http-server
   description: A simple zero-configuration command-line http server
   package_url: https://www.npmjs.com/http-server
@@ -310,18 +336,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
-  detection_source_url: package.json
-  detection_source: package.json
-- name: rollup
-  description: Next-generation ES module bundler
-  package_url: https://www.npmjs.com/rollup
-  version: 2.47.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15824/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: package.json
   detection_source: package.json
 - name: should
