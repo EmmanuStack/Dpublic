@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Dpublic](https://github.com/EmmanuStack/Dpublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|09/19/23<br/>Last commit date|
+|30<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|09/19/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -120,7 +120,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
@@ -128,6 +128,14 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://lodash.com">Lodash</a></sub>
   <br>
   <sub>v4.17.20</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <br>
+  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 </tr>
@@ -140,25 +148,25 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve/)|v15.0.2|N/A|N/A |MIT|N/A|
-|[@types/mocha](http://definitelytyped.org/)|v10.0.1|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint)|v5.59.1|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint)|v5.59.1|N/A|N/A |BSD-2-Clause|N/A|
-|[clean-css](https://github.com/jakubpawlowicz/clean-css)|v5.3.2|N/A|N/A |MIT|N/A|
-|[cli-table](https://github.com/Automattic/cli-table)|v0.3.1|N/A|N/A |MIT|N/A|
-|[commander](https://github.com/tj/commander.js)|v10.0.1|N/A|N/A |MIT|N/A|
-|[css](https://github.com/reworkcss/css)|v3.0.0|N/A|N/A |MIT|N/A|
-|[del](https://github.com/sindresorhus/del)|v6.1.1|N/A|N/A |MIT|N/A|
-|[eslint-config-standard](https://github.com/standard/eslint-config-standard)|v17.0.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)|v2.27.5|N/A|N/A |MIT|N/A|
-|[eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)|v6.1.1|N/A|N/A |ISC|N/A|
-|[glob](https://github.com/isaacs/node-glob)|v8.0.3|N/A|N/A |ISC|N/A|
-|[glob-promise](https://github.com/ahmadnassri/glob-promise)|v6.0.2|N/A|N/A |MIT|N/A|
-|[handlebars](http://www.handlebarsjs.com/)|v4.7.6|N/A|N/A |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
-|[http-server](https://github.com/http-party/http-server)|v14.1.1|N/A|N/A |MIT|N/A|
-|[should](https://github.com/shouldjs/should.js)|v13.2.3|N/A|N/A |MIT|N/A|
-|[terser](https://terser.org)|v5.17.1|N/A|N/A |BSD-2-Clause|N/A|
+|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v15.0.2|N/A|N/A |MIT|N/A|
+|[@types/mocha](https://www.npmjs.com/@types/mocha)|v10.0.1|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.59.1|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.59.1|N/A|N/A |BSD-2-Clause|N/A|
+|[clean-css](https://www.npmjs.com/clean-css)|v5.3.2|N/A|N/A |MIT|N/A|
+|[cli-table](https://www.npmjs.com/cli-table)|v0.3.1|N/A|N/A |MIT|N/A|
+|[commander](https://www.npmjs.com/commander)|v10.0.1|N/A|N/A |MIT|N/A|
+|[css](https://www.npmjs.com/css)|v3.0.0|N/A|N/A |MIT|N/A|
+|[del](https://www.npmjs.com/del)|v6.1.1|N/A|N/A |MIT|N/A|
+|[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v17.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.27.5|N/A|N/A |MIT|N/A|
+|[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v6.1.1|N/A|N/A |ISC|N/A|
+|[glob](https://www.npmjs.com/glob)|v8.0.3|N/A|N/A |ISC|N/A|
+|[glob-promise](https://www.npmjs.com/glob-promise)|v6.0.2|N/A|N/A |MIT|N/A|
+|[http-server](https://www.npmjs.com/http-server)|v14.1.1|N/A|N/A |MIT|N/A|
+|[rollup](https://www.npmjs.com/rollup)|v2.47.0|N/A|N/A |MIT|N/A|
+|[should](https://www.npmjs.com/should)|v13.2.3|N/A|N/A |MIT|N/A|
+|[terser](https://www.npmjs.com/terser)|v5.17.1|N/A|N/A |BSD-2-Clause|N/A|
 
 <br/>
 <div align='center'>
