@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/Dpublic
-report_id: 267448e9f2bcfd08d72364b083a4e835
+report_id: 358e01eca53bbdaa9aac34302bed9181
 repo_type: Public
-timestamp: '2023-11-07T20:13:48+00:00'
+timestamp: '2023-11-07T20:19:58+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 30
+detected_tools_count: 29
 tools:
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -113,12 +113,6 @@ tools:
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
   detection_source_url: package.json
-  detection_source: package.json
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package.json
 - name: "@rollup/plugin-node-resolve"
   description: Locate and bundle third-party dependencies in node_modules
