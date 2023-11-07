@@ -163,8 +163,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v6.1.1|N/A|N/A |ISC|N/A|
 |[glob](https://www.npmjs.com/glob)|v8.0.3|N/A|N/A |ISC|N/A|
 |[glob-promise](https://www.npmjs.com/glob-promise)|v6.0.2|N/A|N/A |MIT|N/A|
+|[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|N/A|N/A |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
 |[http-server](https://www.npmjs.com/http-server)|v14.1.1|N/A|N/A |MIT|N/A|
-|[rollup](https://www.npmjs.com/rollup)|v2.47.0|N/A|N/A |MIT|N/A|
 |[should](https://www.npmjs.com/should)|v13.2.3|N/A|N/A |MIT|N/A|
 |[terser](https://www.npmjs.com/terser)|v5.17.1|N/A|N/A |BSD-2-Clause|N/A|
 
