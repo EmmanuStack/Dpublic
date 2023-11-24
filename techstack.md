@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Dpublic](https://github.com/EmmanuStack/Dpublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|11/23/23 <br/>Report generated|
+|29<br/>Tools used|11/24/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -120,7 +120,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (2)
+## Other (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
@@ -128,14 +128,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://lodash.com">Lodash</a></sub>
   <br>
   <sub>v4.17.20</sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
-  <br>
-  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
-  <br>
-  <sub></sub>
 </td>
 
 </tr>
