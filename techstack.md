@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Dpublic](https://github.com/EmmanuStack/Dpublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|12/04/23 <br/>Report generated|
+|31<br/>Tools used|12/07/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -160,25 +160,25 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v15.0.2|09/19/23|emmanu-yahoo |MIT|N/A|
-|[@types/mocha](https://www.npmjs.com/@types/mocha)|v10.0.1|09/19/23|emmanu-yahoo |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.59.1|09/19/23|emmanu-yahoo |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.59.1|09/19/23|emmanu-yahoo |BSD-2-Clause|N/A|
-|[clean-css](https://www.npmjs.com/clean-css)|v5.3.2|09/19/23|emmanu-yahoo |MIT|N/A|
-|[cli-table](https://www.npmjs.com/cli-table)|v0.3.1|09/19/23|emmanu-yahoo |MIT|N/A|
-|[commander](https://www.npmjs.com/commander)|v10.0.1|09/19/23|emmanu-yahoo |MIT|N/A|
-|[css](https://www.npmjs.com/css)|v3.0.0|09/19/23|emmanu-yahoo |MIT|N/A|
-|[del](https://www.npmjs.com/del)|v6.1.1|09/19/23|emmanu-yahoo |MIT|N/A|
-|[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v17.0.0|09/19/23|emmanu-yahoo |MIT|N/A|
-|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.27.5|09/19/23|emmanu-yahoo |MIT|N/A|
-|[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|09/19/23|emmanu-yahoo |MIT|N/A|
-|[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v6.1.1|09/19/23|emmanu-yahoo |ISC|N/A|
-|[glob](https://www.npmjs.com/glob)|v8.0.3|09/19/23|emmanu-yahoo |ISC|N/A|
-|[glob-promise](https://www.npmjs.com/glob-promise)|v6.0.2|09/19/23|emmanu-yahoo |MIT|N/A|
-|[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|09/19/23|emmanu-yahoo |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
-|[http-server](https://www.npmjs.com/http-server)|v14.1.1|09/19/23|emmanu-yahoo |MIT|N/A|
-|[should](https://www.npmjs.com/should)|v13.2.3|09/19/23|emmanu-yahoo |MIT|N/A|
-|[terser](https://www.npmjs.com/terser)|v5.17.1|09/19/23|emmanu-yahoo |BSD-2-Clause|N/A|
+|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v15.0.2|N/A|N/A |MIT|N/A|
+|[@types/mocha](https://www.npmjs.com/@types/mocha)|v10.0.1|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.59.1|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.59.1|N/A|N/A |BSD-2-Clause|N/A|
+|[clean-css](https://www.npmjs.com/clean-css)|v5.3.2|N/A|N/A |MIT|N/A|
+|[cli-table](https://www.npmjs.com/cli-table)|v0.3.1|N/A|N/A |MIT|N/A|
+|[commander](https://www.npmjs.com/commander)|v10.0.1|N/A|N/A |MIT|N/A|
+|[css](https://www.npmjs.com/css)|v3.0.0|N/A|N/A |MIT|N/A|
+|[del](https://www.npmjs.com/del)|v6.1.1|N/A|N/A |MIT|N/A|
+|[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v17.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.27.5|N/A|N/A |MIT|N/A|
+|[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v6.1.1|N/A|N/A |ISC|N/A|
+|[glob](https://www.npmjs.com/glob)|v8.0.3|N/A|N/A |ISC|N/A|
+|[glob-promise](https://www.npmjs.com/glob-promise)|v6.0.2|N/A|N/A |MIT|N/A|
+|[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|N/A|N/A |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
+|[http-server](https://www.npmjs.com/http-server)|v14.1.1|N/A|N/A |MIT|N/A|
+|[should](https://www.npmjs.com/should)|v13.2.3|N/A|N/A |MIT|N/A|
+|[terser](https://www.npmjs.com/terser)|v5.17.1|N/A|N/A |BSD-2-Clause|N/A|
 
 <br/>
 <div align='center'>
