@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/Dpublic
-report_id: ebdf1e80fe07fbcedfb4fa5c4b444607
+report_id: 6d5f2cbf5913efc68f0e6edcb3e19004
 repo_type: Public
-timestamp: '2023-12-11T20:04:57+00:00'
+timestamp: '2023-12-13T11:55:51+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -16,7 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -42,7 +42,20 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:52:43.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -78,7 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -104,7 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/7054/preview.jpeg
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -139,15 +152,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
-  detection_source: package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:52:43.000000000 Z
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -161,7 +166,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -175,7 +180,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -189,7 +194,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -203,7 +208,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -217,7 +222,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16486/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -231,7 +236,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16477/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -245,7 +250,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -259,7 +264,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -273,7 +278,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -287,7 +292,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -301,7 +306,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -315,7 +320,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -329,7 +334,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -343,7 +348,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -357,7 +362,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18020/image.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -372,7 +377,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -399,7 +404,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -413,7 +418,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -427,7 +432,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
