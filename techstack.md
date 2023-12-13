@@ -4,6 +4,7 @@
 EmmanuStack/Dpublic is built on the following main stack:
 
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
@@ -21,6 +22,7 @@ Full tech stack [here](/techstack.md)
 EmmanuStack/Dpublic is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
@@ -38,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Dpublic](https://github.com/EmmanuStack/Dpublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|12/11/23 <br/>Report generated|
+|31<br/>Tools used|12/13/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -66,6 +68,19 @@ Full tech stack [here](/techstack.md)
   <sub><a href="http://www.typescriptlang.org">TypeScript</a></sub>
   <br>
   <sub>v5.0.4</sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'>
+  <br>
+  <sub><a href="http://www.microsoft.com/net/">.NET</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 </tr>
@@ -132,7 +147,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (2)
+## Other (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
@@ -140,14 +155,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://lodash.com">Lodash</a></sub>
   <br>
   <sub>v4.17.20</sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
-  <br>
-  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
-  <br>
-  <sub></sub>
 </td>
 
 </tr>
