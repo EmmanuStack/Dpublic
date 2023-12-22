@@ -1,7 +1,8 @@
 repo_name: EmmanuStack/Dpublic
-report_id: 9fad18d38b6155b9578e62b076633e09
+report_id: cfa0ed59eda3d30c3756b2664be8929a
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-15T12:55:06+00:00'
+timestamp: '2023-12-22T21:36:30+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -43,6 +44,19 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
   detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:52:43.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
@@ -140,14 +154,6 @@ tools:
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
   detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
-  detection_source: package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:52:43.000000000 Z
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
