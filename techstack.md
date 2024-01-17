@@ -4,10 +4,9 @@
 EmmanuStack/Dpublic is built on the following main stack:
 
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Templating Languages & Extensions
 - [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - [ESLint](http://eslint.org/) – Code Review
 - [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
@@ -22,10 +21,9 @@ Full tech stack [here](/techstack.md)
 EmmanuStack/Dpublic is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
@@ -40,45 +38,16 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Dpublic](https://github.com/EmmanuStack/Dpublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|12/22/23 <br/>Report generated|
+|32<br/>Tools used|01/17/24 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'>
-  <br>
-  <sub><a href="http://handlebarsjs.com/">Handlebars.js</a></sub>
-  <br>
-  <sub>v4.7.6</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
   <br>
   <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'>
-  <br>
-  <sub><a href="http://www.typescriptlang.org">TypeScript</a></sub>
-  <br>
-  <sub>v5.0.4</sub>
-</td>
-
-</tr>
-</table>
-
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
-<table><tr>
-  <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'>
-  <br>
-  <sub><a href="http://www.microsoft.com/net/">.NET</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -147,9 +116,17 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (4)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'>
+  <br>
+  <sub><a href="http://handlebarsjs.com/">Handlebars.js</a></sub>
+  <br>
+  <sub>v4.7.6</sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
   <br>
   <sub><a href="https://lodash.com">Lodash</a></sub>
@@ -157,13 +134,29 @@ Full tech stack [here](/techstack.md)
   <sub>v4.17.20</sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <br>
+  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'>
+  <br>
+  <sub><a href="http://www.typescriptlang.org">TypeScript</a></sub>
+  <br>
+  <sub>v5.0.4</sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -182,10 +175,11 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v6.1.1|09/19/23|emmanu-yahoo |ISC|N/A|
 |[glob](https://www.npmjs.com/glob)|v8.0.3|09/19/23|emmanu-yahoo |ISC|N/A|
 |[glob-promise](https://www.npmjs.com/glob-promise)|v6.0.2|09/19/23|emmanu-yahoo |MIT|N/A|
-|[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|09/19/23|emmanu-yahoo |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
 |[http-server](https://www.npmjs.com/http-server)|v14.1.1|09/19/23|emmanu-yahoo |MIT|N/A|
+|[rollup](https://www.npmjs.com/rollup)|v2.47.0|09/19/23|emmanu-yahoo |MIT|N/A|
 |[should](https://www.npmjs.com/should)|v13.2.3|09/19/23|emmanu-yahoo |MIT|N/A|
 |[terser](https://www.npmjs.com/terser)|v5.17.1|09/19/23|emmanu-yahoo |BSD-2-Clause|N/A|
+|[typescript](https://www.npmjs.com/typescript)|v5.0.4|09/19/23|emmanu-yahoo |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
