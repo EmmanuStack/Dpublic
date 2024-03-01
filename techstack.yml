@@ -1,18 +1,31 @@
 repo_name: EmmanuStack/Dpublic
-report_id: b00ce0321e7ef17e6fd1ca8eea371b04
+report_id: '08c209516c061a0b70da4888315f6c5e'
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-17T20:24:41+00:00'
+timestamp: '2024-03-01T21:55:32+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 32
+detected_tools_count: 31
 tools:
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 4.7.6
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:52:43.000000000 Z
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
     functions
   website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
@@ -21,11 +34,25 @@ tools:
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 5.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:52:43.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Code Review
@@ -37,7 +64,7 @@ tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
@@ -50,7 +77,7 @@ tools:
   website_url: http://mochajs.org/
   version: 10.2.0
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
@@ -77,7 +104,7 @@ tools:
   website_url: https://github.com/jsdom/jsdom
   version: 21.1.1
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Headless Browsers
@@ -110,24 +137,11 @@ tools:
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
-- name: Handlebars.js
-  description: Minimal Templating on Steroids
-  website_url: http://handlebarsjs.com/
-  version: 4.7.6
-  open_source: false
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Templating Languages & Extensions
-  image_url: https://img.stackshare.io/service/1143/Handlebars.png
-  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
-  detection_source: package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:52:43.000000000 Z
 - name: Lodash
   description: A JavaScript utility library
   website_url: https://lodash.com
   version: 4.17.20
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: Javascript Utilities & Libraries
@@ -145,26 +159,12 @@ tools:
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
-- name: TypeScript
-  description: A superset of JavaScript that compiles to clean JavaScript output
-  website_url: http://www.typescriptlang.org
-  version: 5.0.4
-  license: Apache-2.0
-  open_source: false
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Templating Languages & Extensions
-  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
-  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
-  detection_source: package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:52:43.000000000 Z
 - name: "@rollup/plugin-node-resolve"
   description: Locate and bundle third-party dependencies in node_modules
   package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
   version: 15.0.2
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -178,7 +178,7 @@ tools:
   package_url: https://www.npmjs.com/@types/mocha
   version: 10.0.1
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -192,7 +192,7 @@ tools:
   package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
   version: 5.59.1
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -206,7 +206,7 @@ tools:
   package_url: https://www.npmjs.com/@typescript-eslint/parser
   version: 5.59.1
   license: BSD-2-Clause
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -220,7 +220,7 @@ tools:
   package_url: https://www.npmjs.com/clean-css
   version: 5.3.2
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -234,7 +234,7 @@ tools:
   package_url: https://www.npmjs.com/cli-table
   version: 0.3.1
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -248,7 +248,7 @@ tools:
   package_url: https://www.npmjs.com/commander
   version: 10.0.1
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -262,7 +262,7 @@ tools:
   package_url: https://www.npmjs.com/css
   version: 3.0.0
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -276,7 +276,7 @@ tools:
   package_url: https://www.npmjs.com/del
   version: 6.1.1
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -290,7 +290,7 @@ tools:
   package_url: https://www.npmjs.com/eslint-config-standard
   version: 17.0.0
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -304,7 +304,7 @@ tools:
   package_url: https://www.npmjs.com/eslint-plugin-import
   version: 2.27.5
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -318,7 +318,7 @@ tools:
   package_url: https://www.npmjs.com/eslint-plugin-node
   version: 11.1.0
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -332,7 +332,7 @@ tools:
   package_url: https://www.npmjs.com/eslint-plugin-promise
   version: 6.1.1
   license: ISC
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -346,7 +346,7 @@ tools:
   package_url: https://www.npmjs.com/glob
   version: 8.0.3
   license: ISC
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -360,7 +360,7 @@ tools:
   package_url: https://www.npmjs.com/glob-promise
   version: 6.0.2
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -369,30 +369,44 @@ tools:
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:52:43.000000000 Z
+  vulnerabilities:
+  - name: Remote code execution in handlebars when compiling templates
+    cve_id: CVE-2021-23369
+    cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 4.7.7
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2021-23383
+    cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
+    detected_date: Feb 11
+    severity: critical
+    first_patched: 4.7.7
 - name: http-server
   description: A simple zero-configuration command-line http server
   package_url: https://www.npmjs.com/http-server
   version: 14.1.1
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
-  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
-  detection_source: package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:52:43.000000000 Z
-- name: rollup
-  description: Next-generation ES module bundler
-  package_url: https://www.npmjs.com/rollup
-  version: 2.47.0
-  license: MIT
-  open_source: false
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15824/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
@@ -402,7 +416,7 @@ tools:
   package_url: https://www.npmjs.com/should
   version: 13.2.3
   license: MIT
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -416,25 +430,11 @@ tools:
   package_url: https://www.npmjs.com/terser
   version: 5.17.1
   license: BSD-2-Clause
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
-  detection_source: package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:52:43.000000000 Z
-- name: typescript
-  description: TypeScript is a language for application scale JavaScript development
-  package_url: https://www.npmjs.com/typescript
-  version: 5.0.4
-  license: Apache-2.0
-  open_source: false
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15796/default_cea50d31e35529cdbdaa96a7b2786f343a307499.png
   detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
