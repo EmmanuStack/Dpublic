@@ -1,12 +1,12 @@
 repo_name: EmmanuStack/Dpublic
-report_id: e448d5e6dfbd106939a77baf5d1ebe2f
+report_id: b1237e50856bffea91889a802dea598c
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-13T20:32:42+00:00'
+timestamp: '2024-03-19T14:37:26+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 31
+detected_tools_count: 32
 tools:
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -369,34 +369,6 @@ tools:
   detection_source: package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:52:43.000000000 Z
-- name: handlebars
-  description: Handlebars provides the power necessary to let you build semantic templates
-    effectively with no frustration
-  package_url: https://www.npmjs.com/handlebars
-  version: 4.7.6
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
-  detection_source: package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:52:43.000000000 Z
-  vulnerabilities:
-  - name: Remote code execution in handlebars when compiling templates
-    cve_id: CVE-2021-23369
-    cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
-    detected_date: Aug 22
-    severity: critical
-    first_patched: 4.7.7
-  - name: Prototype Pollution in handlebars
-    cve_id: CVE-2021-23383
-    cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
-    detected_date: Feb 11
-    severity: critical
-    first_patched: 4.7.7
 - name: http-server
   description: A simple zero-configuration command-line http server
   package_url: https://www.npmjs.com/http-server
@@ -407,6 +379,20 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:52:43.000000000 Z
+- name: rollup
+  description: Next-generation ES module bundler
+  package_url: https://www.npmjs.com/rollup
+  version: 2.47.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15824/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
@@ -435,6 +421,20 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:52:43.000000000 Z
+- name: typescript
+  description: TypeScript is a language for application scale JavaScript development
+  package_url: https://www.npmjs.com/typescript
+  version: 5.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15796/default_cea50d31e35529cdbdaa96a7b2786f343a307499.png
   detection_source_url: https://github.com/EmmanuStack/Dpublic/blob/main/package.json
   detection_source: package.json
   last_updated_by: emmanu-yahoo
