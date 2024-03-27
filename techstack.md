@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Dpublic](https://github.com/EmmanuStack/Dpublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|03/19/24 <br/>Report generated|
+|31<br/>Tools used|03/27/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -160,6 +160,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|09/19/23|emmanu-yahoo |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
 |[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v15.0.2|09/19/23|emmanu-yahoo |MIT|N/A|
 |[@types/mocha](https://www.npmjs.com/@types/mocha)|v10.0.1|09/19/23|emmanu-yahoo |MIT|N/A|
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.59.1|09/19/23|emmanu-yahoo |MIT|N/A|
@@ -175,7 +176,6 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v6.1.1|09/19/23|emmanu-yahoo |ISC|N/A|
 |[glob](https://www.npmjs.com/glob)|v8.0.3|09/19/23|emmanu-yahoo |ISC|N/A|
 |[glob-promise](https://www.npmjs.com/glob-promise)|v6.0.2|09/19/23|emmanu-yahoo |MIT|N/A|
-|[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|09/19/23|emmanu-yahoo |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
 |[http-server](https://www.npmjs.com/http-server)|v14.1.1|09/19/23|emmanu-yahoo |MIT|N/A|
 |[should](https://www.npmjs.com/should)|v13.2.3|09/19/23|emmanu-yahoo |MIT|N/A|
 |[terser](https://www.npmjs.com/terser)|v5.17.1|09/19/23|emmanu-yahoo |BSD-2-Clause|N/A|
